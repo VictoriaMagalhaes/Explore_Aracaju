@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Criado com o intuito de mostrar (em imagens) um pouco da cidade de Aracaju - SE.
 
-- [Visite o projeto online](https://victoriamagalhaes.github.io/desafio-nlwSetup/)
+- [Visite o projeto online](https://victoriamagalhaes.github.io/Explore_Aracaju/)
 
 ## :memo: Licença
 
